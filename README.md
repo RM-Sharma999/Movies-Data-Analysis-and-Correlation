@@ -62,19 +62,19 @@ This multi-year bar chart illustrates how the **top-grossing production companie
 ## Recommendations
 
 - **Balance Budget and Expectations**  
-  While high-budget films often lead to higher gross revenue, the analysis shows that some lower-budget films can outperform expectations. Focus on effective budget allocation rather than sheer scale.
+  While high-budget films often generate higher revenue, the analysis shows that some **lower-budget films can outperform expectations**. The focus should be on **effective budget allocation** rather than sheer scale.
 
 - **Prioritize Audience Engagement**  
-  Viewer votes show a strong correlation with gross earnings. Building anticipation and maintaining audience interaction across platforms can significantly improve box office outcomes.
+  Viewer votes show a **strong correlation with gross earnings**. Building anticipation and maintaining audience interaction across platforms can significantly improve box office outcomes.
 
 - **Don’t Rely Solely on Ratings**  
-  A high IMDb score doesn’t guarantee commercial success. Combine quality with accessibility, strong marketing, and wide distribution to increase revenue potential.
+  A **high IMDb score doesn’t guarantee commercial success**. Combine quality with **accessibility, strong marketing, and wide distribution** to increase revenue potential.
 
 - **Leverage High-Performing Production Companies**  
-  Certain companies consistently dominate in gross revenue. Emerging studios can study their release patterns, marketing strategies, and partnerships to improve performance.
+  Certain companies consistently dominate in gross revenue. Emerging companies can study their **release patterns, marketing strategies, and partnerships** to improve performance.
 
 - **Analyze Yearly Trends**  
-  The yearly breakdown of top-performing companies reveals shifts in industry dominance. Staying adaptive and analyzing yearly market trends can help identify the right timing and strategy for releases.
+  The yearly breakdown of top-performing companies reveals **shifts in industry leadership**. Staying adaptive and analyzing yearly market trends can help identify the **right timing and strategy** for releases.
 
 ---
 
