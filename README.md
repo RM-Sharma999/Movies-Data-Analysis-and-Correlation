@@ -84,4 +84,4 @@ This project explored key factors influencing a movie’s **commercial success**
 
 Notably, **higher budgets** and **strong audience engagement (votes)** are often linked to greater box office returns. However, **critical ratings alone do not guarantee commercial success**—highlighting the importance of balancing quality with strategic marketing and wide reach.
 
-The analysis also reveals the impact of **production companies** on revenue outcomes and shows how **yearly trends** reflect shifting market dynamics. These insights can support filmmakers, producers, and analysts in making **data-driven decisions** to improve performance and reduce financial risk in future projects.
+**Production companies** shows a significant impact on revenue outcomes and shows how **yearly trends** reflect shifting market dynamics. These insights can support filmmakers, producers, and analysts in making **data-driven decisions** to improve performance and reduce financial risk in future projects.
