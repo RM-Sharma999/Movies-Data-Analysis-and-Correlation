@@ -80,8 +80,8 @@ This multi-year bar chart illustrates how the **top-grossing production companie
 
 ## Conclusion
 
-This project explored key factors influencing a movie’s commercial success using data analysis and visual storytelling. By examining relationships between budget, gross revenue, IMDb scores, votes, production companies, and more, we uncovered several valuable insights.
+This project explores the key factors that influence a movie’s **commercial success** through data analysis and visual storytelling. By examining relationships between **budget, gross revenue, IMDb scores, audience votes, production companies,** and other attributes, several meaningful patterns were uncovered.
 
-Notably, higher budgets and strong audience engagement (measured by votes) are often linked to greater box office returns. However, critical ratings alone do not guarantee commercial success—highlighting the importance of balancing quality with strategic marketing and wide reach.
+The results show that **higher budgets** and **strong audience engagement (votes)** are closely linked to greater box office returns. However, **critical ratings alone do not guarantee success**, highlighting the need to balance content quality with effective marketing and broad audience reach.
 
-Production companies play a significant role in revenue outcomes, and yearly trends show how market dynamics evolve over time. These insights can help guide decision-making for filmmakers, producers, and industry analysts aiming to optimize performance and reduce risk in future projects.
+The analysis also reveals the impact of **production companies** on revenue outcomes and shows how **yearly trends** reflect shifting market dynamics. These insights can support filmmakers, producers, and analysts in making **data-driven decisions** to improve performance and reduce financial risk in future projects.
