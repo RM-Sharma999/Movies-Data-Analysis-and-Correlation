@@ -38,15 +38,15 @@ This plot compares a film’s **IMDb rating** with its **gross revenue**. Althou
 ![](https://i.imgur.com/gZvF87k.png)
 
 ### 3. Correlation Matrix for Numerical Features
-This heatmap presents the correlation between different numerical attributes such as budget, gross revenue, votes, score, and runtime. Notable insights:
+This heatmap presents the **correlation** between key numerical attributes such as **budget, gross revenue, votes, IMDb score, and runtime**.
 
-Gross revenue is strongly correlated with budget and number of votes, indicating that well-funded and widely watched films often perform better financially.
+**Notable Insights**:
+- **Gross revenue** shows a strong correlation with **budget** and **number of votes**, indicating that well-funded and widely watched films often perform better financially.
+- **IMDb score** is moderately correlated with **votes**, but shows a weaker relationship with **gross revenue**, reinforcing earlier observations.
+- **Runtime** and other features display **weaker correlations**, suggesting a less direct influence on success.
 
-IMDb score correlates moderately with votes, but less so with gross, reinforcing earlier observations.
+This matrix helps identify which factors are most aligned with **financial performance** and **audience popularity**.
 
-Other features like runtime have weaker correlations, suggesting a less direct influence on success.
-
-This matrix helps pinpoint which factors are most aligned with financial and popular success.
 ![](https://i.imgur.com/F8pdckB.png)
 
 ### 4. Top 15 Production Companies by Gross Revenue  
