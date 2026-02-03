@@ -30,7 +30,7 @@ This project involves **Exploratory Data Analysis (EDA)** and **data cleaning** 
 ## Visualizations & Insights
 
 ### 1. Gross Revenue vs Budget
-This scatter plot highlights the relationship between a movie’s budget and its gross revenue. There is a clear positive trend—movies with higher budgets generally tend to earn more. However, there are significant outliers where low-budget films have achieved massive success, and some high-budget films have underperformed. This suggests that while investing more increases the potential for returns, success ultimately depends on multiple factors, such as content quality, timing, and audience connection.
+This scatter plot shows the relationship between movie budgets and gross revenue. A clear positive correlation is observed, where higher-budget films generally generate higher earnings. However, the presence of outliers—low-budget films with high returns and high-budget films with lower performance—highlights that financial success is influenced by multiple factors, not just production cost.
 ![](https://i.imgur.com/4ooOd0c.png)
 
 ### 2. Gross Revenue vs IMDb Score
