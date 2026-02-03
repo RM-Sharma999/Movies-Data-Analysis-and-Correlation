@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves bit of Exploratory Data Analysis (EDA), data cleaning of The Movies Dataset from kaggle, the primary goal is to analyze the dataset and uncover correlations between various attributes, with exploring the relationships between budget, gross revenue, movie production companies, and much more.
+This project involves **Exploratory Data Analysis (EDA)** and **data cleaning** of The Movies Dataset from Kaggle. The primary goal is to **uncover correlations between key attributes**, exploring relationships between **budget, gross revenue, production companie**s, and other important factors.
 
 ---
 
