@@ -34,7 +34,7 @@ This scatter plot illustrates the **relationship between a movie’s budget and 
 ![](https://i.imgur.com/4ooOd0c.png)
 
 ### 2. Gross Revenue vs IMDb Score
-This plot compares a film's IMDb rating with its gross revenue. While there's a slight upward trend, the correlation is weak. It shows that critical acclaim (high IMDb score) doesn't always translate to box office success. Some films with average ratings can generate huge revenue due to factors like brand/franchise value, marketing, or star power, while others with high ratings may have limited commercial reach. This visualization emphasizes the difference between popularity and quality.
+This plot compares a film’s **IMDb rating** with its **gross revenue**. Although there is a slight upward trend, the **correlation is weak**, showing that **critical acclaim does not always translate into box office success**. Several films with average ratings generate high revenue due to factors such as **franchise value, marketing, and star power**, while some highly rated films achieve only modest commercial performance. This visualization highlights the clear distinction between **popularity and perceived quality**.
 ![](https://i.imgur.com/gZvF87k.png)
 
 ### 3. Correlation Matrix for Numerical Features
