@@ -54,7 +54,7 @@ This bar chart shows the **top 15 production companies** by **total worldwide gr
 ![](https://i.imgur.com/DxuDSl4.png)
 
 ### 5. Top 15 Companies by Gross Revenue Per Year
-This multi-year bar chart illustrates how the **top-grossing production companies** perform **year by year**, providing a clear **time-series perspective** of studio success. It highlights how industry leaders **rise and fall over time**—for example, some years are dominated by **Disney** due to major **Marvel or Pixar releases**, while in other years **Universal or Warner Bros**. take the lead. This visualization shows how **release schedules, franchise cycles, mergers, and shifting audience trends** influence which studios dominate the global box office.
+This multi-year bar chart illustrates how the **top-grossing production companies** perform **year by year**, providing a clear **time-series perspective** of studio success. It highlights how industry leaders **rise and fall over time**—for example, some years are dominated by **Disney** due to major **Marvel or Pixar releases**, while in other years **Universal** or **Warner Bros**. take the lead. This visualization shows how **release schedules, franchise cycles, mergers, and shifting audience trends** influence which studios dominate the global box office.
 ![](https://i.imgur.com/Bk6ljkr.png)
 
 ---
