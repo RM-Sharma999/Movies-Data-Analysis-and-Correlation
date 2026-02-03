@@ -30,7 +30,7 @@ This project involves **Exploratory Data Analysis (EDA)** and **data cleaning** 
 ## Visualizations & Insights
 
 ### 1. Gross Revenue vs Budget
-This scatter plot illustrates the relationship between a movie’s budget and gross revenue. While there is a clear positive correlation, the data also reveals notable outliers, where some low-budget films achieve massive success and some high-budget films underperform. This indicates that budget alone does not guarantee success, and factors such as content quality, marketing, timing, and audience reception also play a crucial role.
+This scatter plot illustrates the **relationship between a movie’s budget and its gross revenue**. A clear **positive trend** is visible—films with higher budgets generally tend to earn more. However, notable **outliers** exist, where some low-budget movies achieve massive success, while certain high-budget films underperform. This indicates that although higher investment can increase revenue potential, **box office success depends on multiple factors**, including content quality, release timing, and audience engagement.
 ![](https://i.imgur.com/4ooOd0c.png)
 
 ### 2. Gross Revenue vs IMDb Score
