@@ -50,11 +50,11 @@ This matrix helps identify which factors are most aligned with **financial perfo
 ![](https://i.imgur.com/F8pdckB.png)
 
 ### 4. Top 15 Production Companies by Gross Revenue  
-This bar chart showcases the top 15 production companies ranked by their total gross revenue. Dominant names like Warner Bros., Universal Pictures, and Walt Disney top the list, reflecting their consistent production of blockbuster hits. These companies often benefit from large budgets, global marketing reach, and established franchises. It gives a sense of which studios have the strongest financial footprint in the industry.
+This bar chart shows the **top 15 production companies** by **total worldwide gross revenue**, where industry leaders such as **Warner Bros., Universal Pictures, and Walt Disney** dominate, reflecting their ability to consistently produce **high-grossing films** through **strong brand value, large-scale marketing, and successful franchises**, highlighting their **major influence on the global film industry**.
 ![](https://i.imgur.com/DxuDSl4.png)
 
 ### 5. Top 15 Companies by Gross Revenue Per Year
-This multi-year bar chart shows how the top-grossing companies have performed year by year. It offers a time-series perspective, highlighting how studios rise and fall over different years. For example, certain years may be dominated by Disney due to Marvel or Pixar releases, while others see Universal or Warner Bros. take the lead. This visualization reflects how industry leadership can shift based on release schedules, mergers, or trends in audience preferences.
+This multi-year bar chart illustrates how the top-grossing production companies perform year by year, providing a clear time-series perspective of studio success. It highlights how industry leaders rise and fall over time—for example, some years are dominated by Disney due to major Marvel or Pixar releases, while in other years Universal or Warner Bros. take the lead. This visualization shows how release schedules, franchise cycles, mergers, and shifting audience trends influence which studios dominate the global box office.
 ![](https://i.imgur.com/Bk6ljkr.png)
 
 ---
